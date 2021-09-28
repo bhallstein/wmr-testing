@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "wmr"
+  },
+  "dependencies": {
+    "@heroicons/react": "^1.0.4",
+    "otter-editor": "^0.0.119",
+    "preact": "^10.5.14"
+  },
+  "devDependencies": {
+    "wmr": "^3.7.2"
+  },
+  "alias": {
+    "react": "preact/compat",
+    "react-dom": "preact/compat"
+  }
+}
